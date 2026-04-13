@@ -2044,6 +2044,88 @@ section {
   margin: auto;
 }
 
+/*--------------------------------------------------------------
+# Homepage split-hero (modern) styles
+--------------------------------------------------------------*/
+.hero.hero--split {
+  min-height: 100vh;
+  display: block;
+  position: relative;
+  color: #fff;
+  overflow: hidden;
+}
+.hero.hero--split .hero-left {
+  padding: 80px 60px;
+  background: linear-gradient(180deg, rgba(0,0,0,0.12), rgba(0,0,0,0));
+}
+.hero.hero--split .hero-left h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.hero.hero--split .hero-left p.lead {
+  color: rgba(255,255,255,0.92);
+  font-size: 18px;
+  line-height: 1.6;
+}
+.hero.hero--split .hero-stats {
+  margin-top: 18px;
+}
+.hero.hero--split .hero-stats .stat h3 {
+  font-size: 28px;
+  margin: 0;
+  color: #fff;
+}
+.hero.hero--split .hero-stats .stat p {
+  margin: 0;
+  color: rgba(255,255,255,0.85);
+  font-size: 13px;
+}
+
+.hero.hero--split .hero-right .hero-media {
+  min-height: 520px;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--border-radius-lg) 0 0 var(--border-radius-lg);
+  box-shadow: var(--shadow-lg);
+  transition: var(--transition-smooth);
+}
+
+.hero-thumbs {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  gap: 10px;
+  z-index: 6;
+}
+.hero-thumbs .thumb {
+  width: 58px;
+  height: 58px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  border: 2px solid rgba(255,255,255,0.2);
+  box-shadow: var(--shadow-sm);
+  opacity: 0.9;
+  transition: var(--transition-smooth);
+}
+.hero-thumbs .thumb.active {
+  transform: translateY(-6px);
+  border-color: #fff;
+  opacity: 1;
+}
+
+@media (max-width: 991px) {
+  .hero.hero--split .hero-left { padding: 40px 20px; text-align:center; }
+  .hero-thumbs { display:none; }
+  .hero.hero--split .hero-media { min-height: 320px; border-radius: 0; }
+  .hero.hero--split .hero-left h1 { font-size: 36px; }
+}
+
+
 @media (max-width: 768px) {
   .hero .info h2 {
     font-size: 36px;
