@@ -62,26 +62,25 @@
 
               <div class="post-img position-relative overflow-hidden">
                 <img src="{{ asset('assets/img/blog/blog-1.jpg') }}" class="img-fluid" alt="">
-                <span class="post-date">December 12</span>
+                <span class="post-date">April 12</span>
               </div>
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h3>
+                <h3 class="post-title">The Future of Design-Led Construction</h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">John Doe</span>
+                    <i class="bi bi-person"></i> <span class="ps-2">Mark Eckintosh</span>
                   </div>
                   <span class="px-3 text-black-50">/</span>
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Politics</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">Design</span>
                   </div>
                 </div>
 
                 <p>
-                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et
-                  laboriosam eius aut nostrum quidem aliquid dicta.
+                  Exploring how the integration of design thinking early in the construction process leads to better outcomes, reduced friction, and more cohesive final results.
                 </p>
 
                 <hr>
@@ -104,21 +103,20 @@
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Nisi magni odit consequatur autem nulla dolorem</h3>
+                <h3 class="post-title">5 Things to Consider Before Starting a Home Renovation</h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Julia Parker</span>
+                    <i class="bi bi-person"></i> <span class="ps-2">Sarah Jenkins</span>
                   </div>
                   <span class="px-3 text-black-50">/</span>
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Economics</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">Residential</span>
                   </div>
                 </div>
 
                 <p>
-                  Incidunt voluptate sit temporibus aperiam. Quia vitae aut sint ullam quis illum voluptatum et. Quo
-                  libero rerum voluptatem pariatur nam.
+                  Successful renovations start long before the first brick is laid. We break down the essential planning steps to avoid common pitfalls and keep budgets in check.
                 </p>
 
                 <hr>
@@ -141,21 +139,20 @@
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <h3 class="post-title">Optimizing Commercial Spaces for Modern Hybrid Work</h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Maria Doe</span>
+                    <i class="bi bi-person"></i> <span class="ps-2">David Chen</span>
                   </div>
                   <span class="px-3 text-black-50">/</span>
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Sports</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">Commercial</span>
                   </div>
                 </div>
 
                 <p>
-                  Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis
-                  et. Eum temporibus fugiat voluptate enim tenetur sunt omnis.
+                  Interior fit-outs are evolving. Learn how to create commercial spaces that balance collaborative zones with private focus areas for the modern workforce.
                 </p>
 
                 <hr>
@@ -178,22 +175,20 @@
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Non rem rerum nam cum quo minus. Dolor distinctio deleniti explicabo eius
-                  exercitationem.</h3>
+                <h3 class="post-title">The Critical Importance of Site Supervision</h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Maria Doe</span>
+                    <i class="bi bi-person"></i> <span class="ps-2">Robert Miller</span>
                   </div>
                   <span class="px-3 text-black-50">/</span>
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Sports</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">Management</span>
                   </div>
                 </div>
 
                 <p>
-                  Aspernatur rerum perferendis et sint. Voluptates cupiditate voluptas atque quae. Rem veritatis rerum
-                  enim et autem. Saepe atque cum eligendi eaque iste omnis a qui.
+                  Quality assurance isn't just a final step—it's a daily practice. We discuss why active site management is the key to preventing costly rework and ensuring safety.
                 </p>
 
                 <hr>
@@ -216,22 +211,20 @@
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Accusamus quaerat aliquam qui debitis facilis consequatur</h3>
+                <h3 class="post-title">Sustainable Materials in Modern Architecture</h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">John Parker</span>
+                    <i class="bi bi-person"></i> <span class="ps-2">Elena Rossi</span>
                   </div>
                   <span class="px-3 text-black-50">/</span>
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Politics</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">Sustainability</span>
                   </div>
                 </div>
 
                 <p>
-                  In itaque assumenda aliquam voluptatem qui temporibus iusto nisi quia. Autem vitae quas aperiam
-                  nesciunt mollitia tempora odio omnis. Ipsa odit sit ut amet necessitatibus. Quo ullam ut corrupti
-                  autem consequuntur totam dolorem.
+                  From recycled aggregates to low-carbon concrete, explore the materials that are helping us build more durable structures with a smaller environmental footprint.
                 </p>
 
                 <hr>
@@ -249,27 +242,25 @@
 
               <div class="post-img position-relative overflow-hidden">
                 <img src="{{ asset('assets/img/blog/blog-6.jpg') }}" class="img-fluid" alt="">
-                <span class="post-date">December 07</span>
+                <span class="post-date">October 21</span>
               </div>
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Distinctio provident quibusdam numquam aperiam aut</h3>
+                <h3 class="post-title">Maximizing Value in Small-Scale Urban Developments</h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Julia White</span>
+                    <i class="bi bi-person"></i> <span class="ps-2">James Wilson</span>
                   </div>
                   <span class="px-3 text-black-50">/</span>
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Economics</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">Development</span>
                   </div>
                 </div>
 
                 <p>
-                  Expedita et temporibus eligendi enim molestiae est architecto praesentium dolores. Illo laboriosam
-                  officiis quis. Labore officia quia sit voluptatem nisi est dignissimos totam. Et voluptate et
-                  consectetur voluptatem id dolor magni impedit. Omnis dolores sit.
+                  Strategies for building effectively on challenging urban sites, focusing on smart spatial planning and material efficiency to maximize project ROI.
                 </p>
 
                 <hr>

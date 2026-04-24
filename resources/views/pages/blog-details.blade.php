@@ -91,39 +91,27 @@
                 </blockquote>
 
                 <p>
-                  Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident
-                  voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit
-                  perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat.
-                  Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum.
-                  Omnis dolorum exercitationem harum qui qui blanditiis neque.
-                  Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel
-                  magnam quod et tempora deleniti error rerum nihil tempora.
+                  Effective site supervision involves regular inspections and the enforcement of rigorous safety standards. This includes ensuring all structural elements are properly secured and all machinery is operated by certified personnel. By fostering a culture of safety, we not only protect lives but also improve the efficiency and quality of our delivery.
                 </p>
 
-                <h3>Et quae iure vel ut odit alias.</h3>
+                <h3>Implementing Digital Safety Tracking</h3>
                 <p>
-                  Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio
-                  provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam
-                  quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui.
-                  Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione
-                  aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores
-                  natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea.
-                  Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam
-                  voluptatem voluptatem accusamus mollitia aut atque aut.
+                  We are now utilizing digital tools to track site safety in real-time. This allows our project managers to identify potential risks before they become issues, ensuring that every ECKINTOSH site remains a benchmark for safety and professional execution.
                 </p>
                 <img src="{{ asset('assets/img/blog/blog-inside-post.jpg') }}" class="img-fluid" alt="">
 
-                <h3>Ut repellat blanditiis est dolore sunt dolorum quae.</h3>
+                <h3>Continuous Training and Development</h3>
                 <p>
-                  Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae
-                  a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint
-                  non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel.
-                  Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex
-                  libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.
+                  Technology and regulations in the construction industry are constantly evolving. At ECKINTOSH, we invest in ongoing training for our staff and contractors to ensure they are equipped with the latest knowledge in building safety and high-performance execution.
+                </p>
+                <img src="{{ asset('assets/img/blog/blog-inside-post.jpg') }}" class="img-fluid" alt="">
+
+                <h3>Handover and Quality Assurance</h3>
+                <p>
+                  The final phase of any project involves a rigorous quality assurance check. We ensure that every detail meets our design-led standards and that the site is handed over in a clean, safe, and ready-to-use condition. This commitment to finish quality is what sets ECKINTOSH apart.
                 </p>
                 <p>
-                  Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla
-                  sit eaque mollitia nisi asperiores est veniam.
+                  By integrating safety, design, and execution into one cohesive process, we deliver spaces that are not just built to last, but built to perform.
                 </p>
 
               </div><!-- End post content -->
@@ -131,14 +119,14 @@
               <div class="meta-bottom">
                 <i class="bi bi-folder"></i>
                 <ul class="cats">
-                  <li><a href="#">Business</a></li>
+                  <li><a href="#">Management</a></li>
                 </ul>
 
                 <i class="bi bi-tags"></i>
                 <ul class="tags">
-                  <li><a href="#">Creative</a></li>
-                  <li><a href="#">Tips</a></li>
-                  <li><a href="#">Marketing</a></li>
+                  <li><a href="#">Safety</a></li>
+                  <li><a href="#">Execution</a></li>
+                  <li><a href="#">Quality</a></li>
                 </ul>
               </div><!-- End meta bottom -->
 
@@ -154,8 +142,7 @@
                   <a href="https://instagram.com/#"><i class="biu bi-instagram"></i></a>
                 </div>
                 <p>
-                  Itaque quidem optio quia voluptatibus dolorem dolor. Modi eum sed possimus accusantium. Quas repellat
-                  voluptatem officia numquam sint aspernatur voluptas. Esse et accusantium ut unde voluptas.
+                  Mark Eckintosh leads the delivery team at ECKINTOSH Construction, bringing decades of site management experience and a passion for disciplined, design-led execution.
                 </p>
               </div>
             </div><!-- End post author -->
@@ -321,12 +308,12 @@
               <div class="sidebar-item categories">
                 <h3 class="sidebar-title">Categories</h3>
                 <ul class="mt-3">
-                  <li><a href="#">General <span>(25)</span></a></li>
-                  <li><a href="#">Lifestyle <span>(12)</span></a></li>
-                  <li><a href="#">Travel <span>(5)</span></a></li>
-                  <li><a href="#">Design <span>(22)</span></a></li>
-                  <li><a href="#">Creative <span>(8)</span></a></li>
-                  <li><a href="#">Educaion <span>(14)</span></a></li>
+                  <li><a href="#">Design <span>(12)</span></a></li>
+                  <li><a href="#">Residential <span>(15)</span></a></li>
+                  <li><a href="#">Commercial <span>(8)</span></a></li>
+                  <li><a href="#">Management <span>(10)</span></a></li>
+                  <li><a href="#">Sustainability <span>(6)</span></a></li>
+                  <li><a href="#">Development <span>(9)</span></a></li>
                 </ul>
               </div><!-- End sidebar categories-->
 
@@ -338,40 +325,40 @@
                   <div class="post-item mt-3">
                     <img src="{{ asset('assets/img/blog/blog-recent-1.jpg') }}" alt="">
                     <div>
-                      <h4><a href="{{ route('blog-details') }}">Nihil blanditiis at in nihil autem</a></h4>
-                      <time datetime="2020-01-01">Jan 1, 2020</time>
+                      <h4><a href="{{ route('blog-details') }}">The Future of Design-Led Construction</a></h4>
+                      <time datetime="2024-04-12">April 12, 2024</time>
                     </div>
                   </div><!-- End recent post item-->
 
                   <div class="post-item">
                     <img src="{{ asset('assets/img/blog/blog-recent-2.jpg') }}" alt="">
                     <div>
-                      <h4><a href="{{ route('blog-details') }}">Quidem autem et impedit</a></h4>
-                      <time datetime="2020-01-01">Jan 1, 2020</time>
+                      <h4><a href="{{ route('blog-details') }}">5 Things to Consider Before Starting a Home Renovation</a></h4>
+                      <time datetime="2024-03-19">March 19, 2024</time>
                     </div>
                   </div><!-- End recent post item-->
 
                   <div class="post-item">
                     <img src="{{ asset('assets/img/blog/blog-recent-3.jpg') }}" alt="">
                     <div>
-                      <h4><a href="{{ route('blog-details') }}">Id quia et et ut maxime similique occaecati ut</a></h4>
-                      <time datetime="2020-01-01">Jan 1, 2020</time>
+                      <h4><a href="{{ route('blog-details') }}">Optimizing Commercial Spaces for Modern Hybrid Work</a></h4>
+                      <time datetime="2024-02-24">Feb 24, 2024</time>
                     </div>
                   </div><!-- End recent post item-->
 
                   <div class="post-item">
                     <img src="{{ asset('assets/img/blog/blog-recent-4.jpg') }}" alt="">
                     <div>
-                      <h4><a href="{{ route('blog-details') }}">Laborum corporis quo dara net para</a></h4>
-                      <time datetime="2020-01-01">Jan 1, 2020</time>
+                      <h4><a href="{{ route('blog-details') }}">Sustainable Materials in Modern Architecture</a></h4>
+                      <time datetime="2024-01-17">Jan 17, 2024</time>
                     </div>
                   </div><!-- End recent post item-->
 
                   <div class="post-item">
                     <img src="{{ asset('assets/img/blog/blog-recent-5.jpg') }}" alt="">
                     <div>
-                      <h4><a href="{{ route('blog-details') }}">Et dolores corrupti quae illo quod dolor</a></h4>
-                      <time datetime="2020-01-01">Jan 1, 2020</time>
+                      <h4><a href="{{ route('blog-details') }}">Maximizing Value in Small Urban Developments</a></h4>
+                      <time datetime="2024-01-05">Jan 5, 2024</time>
                     </div>
                   </div><!-- End recent post item-->
 
@@ -382,17 +369,14 @@
               <div class="sidebar-item tags">
                 <h3 class="sidebar-title">Tags</h3>
                 <ul class="mt-3">
-                  <li><a href="#">App</a></li>
-                  <li><a href="#">IT</a></li>
-                  <li><a href="#">Business</a></li>
-                  <li><a href="#">Mac</a></li>
                   <li><a href="#">Design</a></li>
-                  <li><a href="#">Office</a></li>
-                  <li><a href="#">Creative</a></li>
-                  <li><a href="#">Studio</a></li>
-                  <li><a href="#">Smart</a></li>
-                  <li><a href="#">Tips</a></li>
-                  <li><a href="#">Marketing</a></li>
+                  <li><a href="#">Renovation</a></li>
+                  <li><a href="#">Commercial</a></li>
+                  <li><a href="#">Management</a></li>
+                  <li><a href="#">Planning</a></li>
+                  <li><a href="#">Construction</a></li>
+                  <li><a href="#">Sustainability</a></li>
+                  <li><a href="#">Quality</a></li>
                 </ul>
               </div><!-- End sidebar tags-->
 
