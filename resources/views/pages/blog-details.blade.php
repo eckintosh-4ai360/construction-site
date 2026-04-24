@@ -155,13 +155,10 @@
                 <div class="d-flex">
                   <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-1.jpg') }}" alt=""></div>
                   <div>
-                    <h5><a href="">Georgia Reader</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i>
-                        Reply</a></h5>
-                    <time datetime="2020-01-01">01 Jan,2022</time>
+                    <h5><a href="">Georgia Middleton</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
+                    <time datetime="2022-01-01">01 Jan, 2024</time>
                     <p>
-                      Et rerum totam nisi. Molestiae vel quam dolorum vel voluptatem et et. Est ad aut sapiente quis
-                      molestiae est qui cum soluta.
-                      Vero aut rerum vel. Rerum quos laboriosam placeat ex qui. Sint qui facilis et.
+                      Great article! We are planning a renovation for our office space and the tips about preconstruction planning are exactly what we needed to hear.
                     </p>
                   </div>
                 </div>
@@ -171,12 +168,10 @@
                 <div class="d-flex">
                   <div class="comment-img"><img src="{{ asset('assets/img/blog/comments-2.jpg') }}" alt=""></div>
                   <div>
-                    <h5><a href="">Aron Alvarado</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i>
-                        Reply</a></h5>
-                    <time datetime="2020-01-01">01 Jan,2022</time>
+                    <h5><a href="">Amedeo Jara</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a></h5>
+                    <time datetime="2022-01-01">02 Jan, 2024</time>
                     <p>
-                      Ipsam tempora sequi voluptatem quis sapiente non. Autem itaque eveniet saepe. Officiis illo ut
-                      beatae.
+                      I completely agree. Budget transparency is the most important factor for us when choosing a construction partner.
                     </p>
                   </div>
                 </div>
@@ -230,14 +225,9 @@
                   <div>
                     <h5><a href="">Nolan Davidson</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i>
                         Reply</a></h5>
-                    <time datetime="2020-01-01">01 Jan,2022</time>
+                    <time datetime="2022-01-01">05 Jan, 2024</time>
                     <p>
-                      Distinctio nesciunt rerum reprehenderit sed. Iste omnis eius repellendus quia nihil ut accusantium
-                      tempore. Nesciunt expedita id dolor exercitationem aspernatur aut quam ut. Voluptatem est
-                      accusamus iste at.
-                      Non aut et et esse qui sit modi neque. Exercitationem et eos aspernatur. Ea est consequuntur
-                      officia beatae ea aut eos soluta. Non qui dolorum voluptatibus et optio veniam. Quam officia sit
-                      nostrum dolorem.
+                      Very insightful post. The mention of sustainable materials is very timely. We are seeing more clients asking for eco-friendly building solutions lately.
                     </p>
                   </div>
                 </div>
@@ -250,10 +240,9 @@
                   <div>
                     <h5><a href="">Kay Duggan</a> <a href="#" class="reply"><i class="bi bi-reply-fill"></i> Reply</a>
                     </h5>
-                    <time datetime="2020-01-01">01 Jan,2022</time>
+                    <time datetime="2022-01-01">10 Jan, 2024</time>
                     <p>
-                      Dolorem atque aut. Omnis doloremque blanditiis quia eum porro quis ut velit tempore. Cumque sed
-                      quia ut maxime. Est ad aut cum. Ut exercitationem non in fugiat.
+                      Thanks for sharing these details. It's always good to see how professional firms handle project management milestones.
                     </p>
                   </div>
                 </div>

@@ -343,9 +343,8 @@
             </div>
             <div class="member-info text-center">
               <h4>David Thompson</h4>
-              <span>Marketing</span>
-              <p>Qui consequuntur quos accusamus magnam quo est molestiae eius laboriosam sunt doloribus quia impedit
-                laborum velit</p>
+              <span>Site Supervisor</span>
+              <p>Ensuring day-to-day excellence on-site, David manages field teams and subcontractors with a focus on safety and adherence to project specifications.</p>
             </div>
           </div><!-- End Team Member -->
 
@@ -361,9 +360,8 @@
             </div>
             <div class="member-info text-center">
               <h4>Josepha Palas</h4>
-              <span>Operation</span>
-              <p>Sint sint eveniet explicabo amet consequatur nesciunt error enim rerum earum et omnis fugit eligendi
-                cupiditate vel</p>
+              <span>Project Planner</span>
+              <p>Specializing in preconstruction clarity, Josepha coordinates timelines and resource allocation to ensure a smooth transition from design to build.</p>
             </div>
           </div><!-- End Team Member -->
 
@@ -378,8 +376,7 @@
 
         <div class="section-header">
           <h2>Testimonials</h2>
-          <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia
-            reprehenderit sunt deleniti</p>
+          <p>Read what our clients have to say about their experience working with ECKINTOSH Construction on residential and commercial projects.</p>
         </div>
 
         <div class="slides-2 swiper">
@@ -397,8 +394,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
-                    Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    ECKINTOSH Construction delivered our contemporary home with incredible attention to detail. Their design-led approach made a huge difference in the final finish quality.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -417,8 +413,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
-                    quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    The commercial fit-out they managed for our office was seamless. They kept us informed at every step and delivered a space that perfectly represents our brand identity.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -437,8 +432,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim
-                    tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    We've worked with many contractors, but the level of site supervision and transparency from ECKINTOSH is unmatched. They are our go-to partner for all our renovations.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -457,8 +451,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit
-                    minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    Professional, disciplined, and detail-oriented. The team at ECKINTOSH made a complex infrastructure project feel manageable and readable from start to finish.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -477,9 +470,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim
-                    culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum
-                    quid.
+                    Highly recommend for anyone looking for a construction partner who values finish quality as much as the owner does. They truly care about the final result.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>

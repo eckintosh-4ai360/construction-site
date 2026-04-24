@@ -236,36 +236,32 @@
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
               <i class="bi bi-easel flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate
-                  non provident</p>
+                <h4><a href="" class="stretched-link">Project Strategy</a></h4>
+                <p>We develop comprehensive execution plans that align with your commercial goals and site constraints.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
               <i class="bi bi-patch-check flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
-                  deleniti atque</p>
+                <h4><a href="" class="stretched-link">Material Sourcing</a></h4>
+                <p>We partner with reliable vendors to ensure all building materials meet high standards for durability and finish.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus
-                  aut eligendi omnis</p>
+                <h4><a href="" class="stretched-link">Site Supervision</a></h4>
+                <p>Dedicated on-site management ensures that labor and subcontractors adhere to safety and quality protocols.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet.
-                  Et eligendi</p>
+                <h4><a href="" class="stretched-link">Final Handover</a></h4>
+                <p>Our close-out process ensures all snags are resolved and the facility is ready for immediate operation.</p>
               </div>
             </div><!-- End Icon Box -->
           </div>
@@ -286,43 +282,38 @@
             data-aos-delay="100"></div>
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus
-              laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
+            <h3>Disciplined Construction Planning</h3>
+            <p>We bring order to complex building projects through a structured approach that emphasizes clarity, coordination, and finish quality.</p>
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
               <i class="bi bi-easel flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate
-                  non provident</p>
+                <h4><a href="" class="stretched-link">Requirement Gathering</a></h4>
+                <p>We work closely with stakeholders to define the technical requirements and project scope early.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
               <i class="bi bi-patch-check flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
-                  deleniti atque</p>
+                <h4><a href="" class="stretched-link">Risk Assessment</a></h4>
+                <p>Our team identifies potential site challenges and mitigates risks before they impact the schedule.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Dine Pad</a></h4>
-                <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus
-                  aut eligendi omnis</p>
+                <h4><a href="" class="stretched-link">Quality Control</a></h4>
+                <p>Continuous inspections throughout the build process ensure that every detail meets our high standards.</p>
               </div>
             </div><!-- End Icon Box -->
 
             <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
               <i class="bi bi-brightness-high flex-shrink-0"></i>
               <div>
-                <h4><a href="" class="stretched-link">Tride clov</a></h4>
-                <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet.
-                  Et eligendi</p>
+                <h4><a href="" class="stretched-link">Owner Reporting</a></h4>
+                <p>Regular updates and transparent reporting keep project owners informed of progress and milestones.</p>
               </div>
             </div><!-- End Icon Box -->
 
@@ -338,8 +329,7 @@
 
         <div class="section-header">
           <h2>Testimonials</h2>
-          <p>Quam sed id excepturi ccusantium dolorem ut quis dolores nisi llum nostrum enim velit qui ut et autem uia
-            reprehenderit sunt deleniti</p>
+          <p>Read what our clients have to say about their experience working with ECKINTOSH Construction on residential and commercial projects.</p>
         </div>
 
         <div class="slides-2 swiper">
@@ -357,8 +347,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
-                    Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    ECKINTOSH Construction delivered our contemporary home with incredible attention to detail. Their design-led approach made a huge difference in the final finish quality.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -377,8 +366,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
-                    quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    The commercial fit-out they managed for our office was seamless. They kept us informed at every step and delivered a space that perfectly represents our brand identity.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -397,8 +385,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim
-                    tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    We've worked with many contractors, but the level of site supervision and transparency from ECKINTOSH is unmatched. They are our go-to partner for all our renovations.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -417,8 +404,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit
-                    minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    Professional, disciplined, and detail-oriented. The team at ECKINTOSH made a complex infrastructure project feel manageable and readable from start to finish.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>
@@ -437,9 +423,7 @@
                   </div>
                   <p>
                     <i class="bi bi-quote quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim
-                    culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum
-                    quid.
+                    Highly recommend for anyone looking for a construction partner who values finish quality as much as the owner does. They truly care about the final result.
                     <i class="bi bi-quote quote-icon-right"></i>
                   </p>
                 </div>

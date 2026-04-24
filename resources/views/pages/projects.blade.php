@@ -72,9 +72,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/remodeling-1.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/remodeling-1.jpg') }}" title="Remodeling 1"
+                  <h4>Kitchen Remodel</h4>
+                  <p>Complete modernization of a residential kitchen with premium finishes.</p>
+                  <a href="{{ asset('assets/img/projects/remodeling-1.jpg') }}" title="Kitchen Remodel"
                     data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
                       class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
@@ -87,9 +87,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/construction-1.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/construction-1.jpg') }}" title="Construction 1"
+                  <h4>Office Complex</h4>
+                  <p>Structural phase for a new multi-story commercial development.</p>
+                  <a href="{{ asset('assets/img/projects/construction-1.jpg') }}" title="Office Complex"
                     data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
                       class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
@@ -102,9 +102,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/repairs-1.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/repairs-1.jpg') }}" title="Repairs 1" data-gallery="portfolio-gallery-repairs"
+                  <h4>Roof Repair</h4>
+                  <p>Full restoration and weatherproofing of a damaged industrial roof.</p>
+                  <a href="{{ asset('assets/img/projects/repairs-1.jpg') }}" title="Roof Repair" data-gallery="portfolio-gallery-repairs"
                     class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
                       class="bi bi-link-45deg"></i></a>
@@ -116,9 +116,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/design-1.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/design-1.jpg') }}" title="Repairs 1" data-gallery="portfolio-gallery-book"
+                  <h4>Luxury Villa Design</h4>
+                  <p>Architectural concept and planning for a modern hilltop residence.</p>
+                  <a href="{{ asset('assets/img/projects/design-1.jpg') }}" title="Villa Design" data-gallery="portfolio-gallery-book"
                     class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
                       class="bi bi-link-45deg"></i></a>
@@ -130,9 +130,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/remodeling-2.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/remodeling-2.jpg') }}" title="Remodeling 2"
+                  <h4>Living Space Refresh</h4>
+                  <p>Open-plan conversion and interior fit-out for a residential client.</p>
+                  <a href="{{ asset('assets/img/projects/remodeling-2.jpg') }}" title="Living Space Refresh"
                     data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
                       class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
@@ -145,9 +145,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/construction-2.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/construction-2.jpg') }}" title="Construction 2"
+                  <h4>Warehouse Build</h4>
+                  <p>Delivery of a high-capacity logistics facility with heavy-duty slab.</p>
+                  <a href="{{ asset('assets/img/projects/construction-2.jpg') }}" title="Warehouse Build"
                     data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
                       class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
@@ -160,9 +160,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/repairs-2.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/repairs-2.jpg') }}" title="Repairs 2" data-gallery="portfolio-gallery-repairs"
+                  <h4>Facade Restoration</h4>
+                  <p>Specialized repair and cleaning of a historic building exterior.</p>
+                  <a href="{{ asset('assets/img/projects/repairs-2.jpg') }}" title="Facade Restoration" data-gallery="portfolio-gallery-repairs"
                     class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
                       class="bi bi-link-45deg"></i></a>
@@ -174,9 +174,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/design-2.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/design-2.jpg') }}" title="Repairs 2" data-gallery="portfolio-gallery-book"
+                  <h4>Interior Concept</h4>
+                  <p>Modern interior design planning for a retail flagship store.</p>
+                  <a href="{{ asset('assets/img/projects/design-2.jpg') }}" title="Interior Concept" data-gallery="portfolio-gallery-book"
                     class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
                       class="bi bi-link-45deg"></i></a>
@@ -188,9 +188,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/remodeling-3.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Remodeling 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/remodeling-3.jpg') }}" title="Remodeling 3"
+                  <h4>Master Bedroom Suite</h4>
+                  <p>High-end renovation of a master suite with custom cabinetry.</p>
+                  <a href="{{ asset('assets/img/projects/remodeling-3.jpg') }}" title="Master Bedroom Suite"
                     data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i
                       class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
@@ -203,9 +203,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/construction-3.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Construction 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/construction-3.jpg') }}" title="Construction 3"
+                  <h4>Multi-Unit Housing</h4>
+                  <p>Development of a modern apartment block with sustainable features.</p>
+                  <a href="{{ asset('assets/img/projects/construction-3.jpg') }}" title="Multi-Unit Housing"
                     data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i
                       class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
@@ -218,9 +218,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/repairs-3.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Repairs 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/repairs-3.jpg') }}" title="Repairs 2" data-gallery="portfolio-gallery-repairs"
+                  <h4>Structural Reinforcement</h4>
+                  <p>Specialized repair of structural columns in an existing commercial space.</p>
+                  <a href="{{ asset('assets/img/projects/repairs-3.jpg') }}" title="Structural Reinforcement" data-gallery="portfolio-gallery-repairs"
                     class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
                       class="bi bi-link-45deg"></i></a>
@@ -232,9 +232,9 @@
               <div class="portfolio-content h-100">
                 <img src="{{ asset('assets/img/projects/design-3.jpg') }}" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Design 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="{{ asset('assets/img/projects/design-3.jpg') }}" title="Repairs 3" data-gallery="portfolio-gallery-book"
+                  <h4>Landscape Architecture</h4>
+                  <p>Design and planning for integrated outdoor living and green spaces.</p>
+                  <a href="{{ asset('assets/img/projects/design-3.jpg') }}" title="Landscape Architecture" data-gallery="portfolio-gallery-book"
                     class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i
                       class="bi bi-link-45deg"></i></a>

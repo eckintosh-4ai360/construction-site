@@ -98,26 +98,22 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
-                  quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  The attention to detail and disciplined management from ECKINTOSH Construction ensured our project was completed with the highest level of craftsmanship. They truly understood our vision.
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
                 <div>
                   <img src="{{ asset('assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
                   <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
+                  <h4>Lead Designer</h4>
                 </div>
               </div>
 
               <p>
-                Impedit ipsum quae et aliquid doloribus et voluptatem quasi. Perspiciatis occaecati earum et magnam
-                animi. Quibusdam non qui ea vitae suscipit vitae sunt. Repudiandae incidunt cumque minus deserunt
-                assumenda tempore. Delectus voluptas necessitatibus est.
+                This project involved the integration of high-performance materials and modern site systems to ensure long-term durability and structural integrity. Our focus remained on delivering a space that is both functional and aesthetically refined.
+              </p>
 
               <p>
-                Sunt voluptatum sapiente facilis quo odio aut ipsum repellat debitis. Molestiae et autem libero.
-                Explicabo et quod necessitatibus similique quis dolor eum. Numquam eaque praesentium rem et qui
-                nesciunt.
+                From the structural foundation to the final interior fit-outs, every milestone was supervised to maintain compliance with safety standards and design specifications.
               </p>
 
             </div>
@@ -127,11 +123,11 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong> <span>Web design</span></li>
-                <li><strong>Client</strong> <span>ASU Company</span></li>
-                <li><strong>Project date</strong> <span>01 March, 2020</span></li>
-                <li><strong>Project URL</strong> <a href="#">www.example.com</a></li>
-                <li><a href="#" class="btn-visit align-self-start">Visit Website</a></li>
+                <li><strong>Category</strong> <span>Commercial Build</span></li>
+                <li><strong>Client</strong> <span>Apex Group</span></li>
+                <li><strong>Project date</strong> <span>15 March, 2024</span></li>
+                <li><strong>Project Location</strong> <span>Building City, ST</span></li>
+                <li><a href="{{ route('contact') }}" class="btn-visit align-self-start">Request Quote</a></li>
               </ul>
             </div>
           </div>
